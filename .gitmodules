@@ -10,3 +10,6 @@
 [submodule "Scheduler-Project"]
 	path = Scheduler-Project
 	url = https://github.com/gregdeli/Scheduler-Project.git
+[submodule "Travel-Agency-Project"]
+	path = Travel-Agency-Project
+	url = https://github.com/gregdeli/Travel-Agency-Project.git/
