@@ -4,3 +4,6 @@
 [submodule "Data-Structures-Project"]
 	path = Data-Structures-Project
 	url = https://github.com/gregdeli/Data-Structures-Project.git
+[submodule "Android-Layout-XML-Parser"]
+	path = Android-Layout-XML-Parser
+	url = https://github.com/gregdeli/Android-Layout-XML-Parser.git
