@@ -7,3 +7,6 @@
 [submodule "Android-Layout-XML-Parser"]
 	path = Android-Layout-XML-Parser
 	url = https://github.com/gregdeli/Android-Layout-XML-Parser.git
+[submodule "Scheduler-Project"]
+	path = Scheduler-Project
+	url = https://github.com/gregdeli/Scheduler-Project.git
