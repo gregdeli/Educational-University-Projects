@@ -1,0 +1,3 @@
+[submodule "COVID-19-Trade-Impact-Analysis"]
+	path = COVID-19-Trade-Impact-Analysis
+	url = https://github.com/gregdeli/COVID-19-Trade-Impact-Analysis.git
