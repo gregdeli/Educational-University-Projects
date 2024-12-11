@@ -13,3 +13,6 @@
 [submodule "Travel-Agency-Project"]
 	path = Travel-Agency-Project
 	url = https://github.com/gregdeli/Travel-Agency-Project.git/
+[submodule "Parallel-Programing-Project"]
+	path = Parallel-Programing-Project
+	url = https://github.com/gregdeli/Parallel-Programing-Project.git
