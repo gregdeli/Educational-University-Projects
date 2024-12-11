@@ -28,3 +28,6 @@
 [submodule "Ancient-Text-Restoration-Genetic-Algorithm"]
 	path = Ancient-Text-Restoration-Genetic-Algorithm
 	url = https://github.com/gregdeli/Ancient-Text-Restoration-Genetic-Algorithm.git
+[submodule "Software-Engineering-Project"]
+	path = Software-Engineering-Project
+	url = https://github.com/gregdeli/Software-Engineering-Project.git
