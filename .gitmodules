@@ -22,3 +22,6 @@
 [submodule "Volunteer-Coordination-Platform"]
 	path = Volunteer-Coordination-Platform
 	url = https://github.com/gregdeli/Volunteer-Coordination-Platform.git
+[submodule "Dating-of-Ancient-Inscriptions-Using-Neural-Networks"]
+	path = Dating-of-Ancient-Inscriptions-Using-Neural-Networks
+	url = https://github.com/gregdeli/Dating-of-Ancient-Inscriptions-Using-Neural-Networks.git
