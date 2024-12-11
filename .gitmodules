@@ -19,3 +19,6 @@
 [submodule "Educational-University-Projects"]
 	path = Educational-University-Projects
 	url = https://github.com/gregdeli/Educational-University-Projects.git
+[submodule "Volunteer-Coordination-Platform"]
+	path = Volunteer-Coordination-Platform
+	url = https://github.com/gregdeli/Volunteer-Coordination-Platform.git
