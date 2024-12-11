@@ -25,3 +25,6 @@
 [submodule "Dating-of-Ancient-Inscriptions-Using-Neural-Networks"]
 	path = Dating-of-Ancient-Inscriptions-Using-Neural-Networks
 	url = https://github.com/gregdeli/Dating-of-Ancient-Inscriptions-Using-Neural-Networks.git
+[submodule "Ancient-Text-Restoration-Genetic-Algorithm"]
+	path = Ancient-Text-Restoration-Genetic-Algorithm
+	url = https://github.com/gregdeli/Ancient-Text-Restoration-Genetic-Algorithm.git
