@@ -16,3 +16,6 @@
 [submodule "Parallel-Programing-Project"]
 	path = Parallel-Programing-Project
 	url = https://github.com/gregdeli/Parallel-Programing-Project.git
+[submodule "Educational-University-Projects"]
+	path = Educational-University-Projects
+	url = https://github.com/gregdeli/Educational-University-Projects.git
